@@ -1,6 +1,8 @@
 # fractal-gen
 A C++ program to generate Mandelbrot and Julia set fractals
 
+![](image/fractal.jpg)
+
 # about
 
 `fractal-gen` is a simple program that will output a PNG image of the
