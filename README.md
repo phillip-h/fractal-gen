@@ -12,6 +12,8 @@ with the fractal parameters themselves.
 
 # usage
 
+Clone the repository and run `make` to build.
+
 ### syntax
 
 ```
