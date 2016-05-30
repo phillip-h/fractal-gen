@@ -22,6 +22,11 @@ The example fractal was generated with:
 
 Clone the repository and run `make` to build.
 
+Running the program will produce a PNG file called `fractal.png` of
+the program output. Warning -- the program will happily overwrite any
+existing `fractal.png` file. You might want to rename or move fractals
+that you intend on keeping.
+
 ### syntax
 
 ```
