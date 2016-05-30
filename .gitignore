@@ -1,0 +1,8 @@
+fractal-gen
+*~
+*.swp
+*.swo
+*.so
+*.o
+*.d
+*.png
