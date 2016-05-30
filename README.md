@@ -12,6 +12,12 @@ with the fractal parameters themselves.
 
 `lodepng` is used for PNG output.
 
+The example fractal was generated with:
+
+```
+./fractal-gen 512 512 3.5 99D9FF FF6666 171717 mandelbrot 64
+```
+
 # usage
 
 Clone the repository and run `make` to build.
